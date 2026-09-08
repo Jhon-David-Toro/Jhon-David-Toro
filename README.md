@@ -38,7 +38,7 @@ $ whoami
 Jhon David Toro Muriel
 
 $ cat rol.txt
-Ingeniero de Software @ EPAM Systems
+Software Enginieer @ EPAM Systems
 
 $ ls experiencia/
 EPAM-Systems/  NEORIS/
