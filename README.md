@@ -18,7 +18,7 @@
 <tr>
 <td width="55%" valign="top">
 
-Empecé a programar por curiosidad y me quedé por lo mismo: cada proyecto trae un problema distinto que vale la pena resolver bien, no solo hacer que "funcione".
+Empecé a programar por curiosidad y me quedé por lo mismo: cada proyecto trae un problema distinto que vafle la pena resolver bien, no solo hacer que "funcione".
 
 Hoy soy Software Engineer en **EPAM Systems**, después de pasar por **NEORIS**, **Fisapay** y **Emberalab**.
 un camino que me llevó de dar soporte a sistemas a diseñar arquitecturas de componentes desde cero.
@@ -38,7 +38,7 @@ $ whoami
 Jhon David Toro Muriel
 
 $ cat rol.txt
-Software Enginieer @ EPAM Systems
+Software Engineer @ EPAM Systems
 
 $ ls experiencia/
 EPAM-Systems/  NEORIS/
